@@ -1,0 +1,16 @@
+Twenty-six-year-old Naledi Sibisi will be launching her very own lipstick collection very soon! A Johannesburg-based project manager and financial consultant, Sibisi is a beauty fanatic obsessed with finding the perfect lip colour. The idea to launch a lipstick collection was birthed two months ago when Sibisi and a close friend (who is a fashion buyer and runs an online store selling clothing, and previously hair extensions) had a chat about taking her passion forward. “I’m always playing around with lip colours and I realised that there are many colours I couldn’t find,” she tells DESTINY. “My friend went on a trip to China and I asked her to look out for colours I was interested in. That’s how the idea came about. I decided to take a leap and put money into it.” READ MORE: Zama Mathe on the success of her design house, Zarth Designs Sibisi says they are currently in the final stages of launching and will have branding and photoshoots done in the next two weeks to launch the week thereafter. The products are manufactured in China, but branded locally. The collection name, Estellacosmetics, was inspired by the word ‘stellar’ which means relating to stars. Her name, Naledi, also means star. She adds: “I’m a writer and a reader, and one of my favourite novels is Great Expectations by Charles Dickens. The heroine in the novel is called Estella, and that’s also what inspired the name Estellacosmetics.” The range will be available for purchase on all Bellecheveux’s online platforms. Sibisi tells DESTINY that the first collection will be available in six shades. READ MORE: Lebo Mphela turns her passion for nail care into a business “We are trying to do everything seasonally, so the first colourway is very subtle. After we roll those out, we’ll release the dark colours for winter, and as spring comes, the focus will be bright popping colours.” “Special attention has been paid to shades, and since I’m a dark-skinned girl, I know that nude shades sometimes have to be mixed with a darker liner to pop on the lips. This collection sees to all of that.” Sibisi has majority influence in the choice of shades and the manufacturing process, but has been working very closely with her friend and business partner. However, Naledi admits that her business partner wants her to be the success of her own brand. The young entrepreneur looks to Rihanna for beauty inspiration and is also constantly browsing the internet for online content. READ MORE: Young director Sibabalwe Sesmani is a game-changer She tells DESTINY that she hopes to eventually run her business full-time. “If I had the opportunity to pursue and focus on being a creative and rolling out this brand, I would grab it with both hands.” EstellaCosmetics is one to watch! Well done, Naledi. We celebrate #BlackGirlMagic. #gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */ 
